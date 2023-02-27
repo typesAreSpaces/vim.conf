@@ -32,3 +32,4 @@ set undofile
 set incsearch 
 
 set shell=zsh\ -i
+set autochdir
